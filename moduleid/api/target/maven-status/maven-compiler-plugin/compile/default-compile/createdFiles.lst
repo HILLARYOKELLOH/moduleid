@@ -1,0 +1,6 @@
+org\openmrs\module\moduleid\ModuleidConfig.class
+org\openmrs\module\moduleid\Item.class
+org\openmrs\module\moduleid\api\dao\ModuleidDao.class
+org\openmrs\module\moduleid\ModuleidActivator.class
+org\openmrs\module\moduleid\api\ModuleidService.class
+org\openmrs\module\moduleid\api\impl\ModuleidServiceImpl.class

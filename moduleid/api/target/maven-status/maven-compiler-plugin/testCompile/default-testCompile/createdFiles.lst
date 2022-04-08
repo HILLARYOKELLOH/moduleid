@@ -1,0 +1,2 @@
+org\openmrs\module\moduleid\api\ModuleidServiceTest.class
+org\openmrs\module\moduleid\api\dao\ModuleidDaoTest.class
